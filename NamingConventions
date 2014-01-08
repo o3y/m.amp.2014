@@ -1,0 +1,34 @@
+==================================================================================
+Variable name prefix
+==================================================================================
+Prefix                  Meaning                 Example                     Notes
+----------------------------------------------------------------------------------
+n                       # of objects            nChannel
+i                       Iterator                iChannel
+b                       Boolean                 bCheckParameters
+S                       Structures              SParameters
+s                       Strings                 sName
+h                       Handles                 hFigure
+par                     Function parameters     parRegularization
+etc                     Auxiliary outputs       etcRegularization
+fh                      Function handles        fhEnergy
+C                       Cells                   CFileLists
+Cl                      Classes                 ClColoredImage
+o                       Object of classes       oImage
+
+==================================================================================
+M-file name prefix
+==================================================================================
+Prefix                  Meaning                 Example                     Notes
+----------------------------------------------------------------------------------
+fun                     Important functions     funRegularization           
+try                     Test functions          tryLoadData
+tmp                     Temporary functions     tmpLoadData
+script			Automatic scripts       scriptPPI
+demo                    Demos			demoPPI
+
+==================================================================================
+Arguments of a important functions
+==================================================================================
+(TBD)
+
